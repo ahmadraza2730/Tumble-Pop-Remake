@@ -32,10 +32,6 @@ g++ main.cpp -o TumblePop
 ./TumblePop
 ```
 
-## 📸 Preview
-
-*(Add a screenshot or GIF of gameplay here — this massively boosts repo appeal!)*
-
 ## 🎓 Context
 
 This was built as a course project for **Programming Fundamentals** at FAST-NUCES Islamabad, and represents an early milestone in my journey from procedural to object-oriented game development — later continued in my [Metal Slug OOP project](#) and Pathfinder AI Maze Game.
